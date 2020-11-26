@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">viewWhatsappMessage</string>
+    <string name="notification_listener_service">Test</string>
 </resources>
